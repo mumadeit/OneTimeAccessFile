@@ -23,7 +23,7 @@ OtaF is a web application designed for secure, temporary file sharing. Users can
     ```
 2. Navigate to the project directory:
     ```bash
-    cd otaf
+    cd OneTimeAccessFile
     ```
 3. Install dependencies:
     ```bash
