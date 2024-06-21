@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+
+body {
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: black;
+    color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 100;
+}
+
+a {
+    color: white;
+}
+
+p {
+    line-height: 1.5;
+    margin-bottom: 1.5em;
+    color: #fff;
+}
+
+.button {
+    background-color: #fff;
+    color: #000;
+    border: none;
+    padding: 0.5em 1em;
+    border-radius: 0.25em;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0dff00;
+    color: #131313;
+}
+
+.alert-success {
+    background-color: #0dff00;
+    color: #131313;
+    padding: 0.5em 1em;
+    border-radius: 15px;
+    margin-bottom: 1em;
+    border: none;
+}
