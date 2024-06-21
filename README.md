@@ -4,10 +4,10 @@ OtaF is a web application designed for secure, temporary file sharing. Users can
 
 ## Features
 
-- **Secure File Upload**: Upload files up to 2MB with validation.
+- **Secure File Upload**: Upload files up to 10MB with validation.
 - **Unique Short URLs**: Each file receives a unique, randomly generated short URL.
 - **One-Time Access**: Files are deleted from the server after download.
-- **JSON Responses**: Informative responses for both successful and failed operations.
+- **File Delete After Downloading** : The File will be deleted after it's downloaded.
 
 ## Technology Stack
 
@@ -19,7 +19,7 @@ OtaF is a web application designed for secure, temporary file sharing. Users can
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/otaf.git
+    git clone https://github.com/mumadeit/OneTimeAccessFile.git
     ```
 2. Navigate to the project directory:
     ```bash
